@@ -32,10 +32,12 @@ yarn start
 # 🧭 Table of contents
 
 
-# 🏗 Ethereum Components
+# 🏗 Ethereum Contracts
 
+```Rinkeby
 eden nft staker address -> 0xaB6F4483e1279e37279Fa73009F3971D5D8A471c
 eden nft address -> 0x6995cD9890Bb8384504131f5A5AA1264b126BE3D
+```
 
 ### `useNFTBalances()`
 
