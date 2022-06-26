@@ -32,7 +32,7 @@ yarn start
 # 🧭 Table of contents
 
 
-# 🏗 Ethereum Contracts
+# 🏗 Ethereum Contracts (Rinkeby)
 
 ```Rinkeby
 eden nft staker address -> 0xaB6F4483e1279e37279Fa73009F3971D5D8A471c
